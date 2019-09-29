@@ -1,0 +1,12 @@
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Units\bin\Debug\Units.dll
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Units\bin\Debug\Units.pdb
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Units\obj\Debug\Units.csprojAssemblyReference.cache
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Units\obj\Debug\Units.csproj.CoreCompileInputs.cache
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Units\obj\Debug\Units.dll
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Units\obj\Debug\Units.pdb
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Units\bin\Debug\Units.dll
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Units\bin\Debug\Units.pdb
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Units\obj\Debug\Units.csprojAssemblyReference.cache
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Units\obj\Debug\Units.csproj.CoreCompileInputs.cache
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Units\obj\Debug\Units.dll
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Units\obj\Debug\Units.pdb

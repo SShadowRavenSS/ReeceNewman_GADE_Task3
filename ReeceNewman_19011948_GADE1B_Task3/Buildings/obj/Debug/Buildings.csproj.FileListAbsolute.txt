@@ -1,0 +1,15 @@
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Buildings\bin\Debug\Buildings.dll
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Buildings\bin\Debug\Buildings.pdb
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Buildings\obj\Debug\Buildings.csproj.CoreCompileInputs.cache
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Buildings\obj\Debug\Buildings.dll
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Buildings\obj\Debug\Buildings.pdb
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Buildings\obj\Debug\Buildings.csprojAssemblyReference.cache
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Buildings\bin\Debug\Buildings.dll
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Buildings\bin\Debug\Buildings.pdb
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Buildings\bin\Debug\Units.dll
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Buildings\bin\Debug\Units.pdb
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Buildings\obj\Debug\Buildings.csprojAssemblyReference.cache
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Buildings\obj\Debug\Buildings.csproj.CoreCompileInputs.cache
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Buildings\obj\Debug\Buildings.csproj.CopyComplete
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Buildings\obj\Debug\Buildings.dll
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\Buildings\obj\Debug\Buildings.pdb

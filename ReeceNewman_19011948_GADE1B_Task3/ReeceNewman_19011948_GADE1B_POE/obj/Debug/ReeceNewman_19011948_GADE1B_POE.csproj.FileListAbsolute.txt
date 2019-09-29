@@ -1,0 +1,44 @@
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_POE\ReeceNewman_19011948_GADE1B_POE\bin\Debug\ReeceNewman_19011948_GADE1B_POE.exe.config
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_POE\ReeceNewman_19011948_GADE1B_POE\bin\Debug\ReeceNewman_19011948_GADE1B_POE.exe
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_POE\ReeceNewman_19011948_GADE1B_POE\bin\Debug\ReeceNewman_19011948_GADE1B_POE.pdb
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_POE\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_POE.csprojAssemblyReference.cache
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_POE\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_POE.frmBattleSim.resources
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_POE\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_POE.Properties.Resources.resources
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_POE\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_POE.csproj.GenerateResource.cache
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_POE\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_POE.csproj.CoreCompileInputs.cache
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_POE\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_POE.exe
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_POE\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_POE.pdb
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\bin\Debug\ReeceNewman_19011948_GADE1B_Task2.exe.config
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\bin\Debug\ReeceNewman_19011948_GADE1B_Task2.exe
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\bin\Debug\ReeceNewman_19011948_GADE1B_Task2.pdb
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_POE.csprojAssemblyReference.cache
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_Task2.Properties.Resources.resources
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_POE.csproj.GenerateResource.cache
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_POE.csproj.CoreCompileInputs.cache
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_Task2.exe
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_Task2.pdb
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\bin\Debug\Buildings.dll
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\bin\Debug\Logic.dll
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\bin\Debug\Units.dll
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\bin\Debug\Buildings.pdb
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\bin\Debug\Logic.pdb
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\bin\Debug\Units.pdb
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\obj\Debug\Units.frmBattleSim.resources
+C:\Users\Reece Newman\Desktop\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_POE.csproj.CopyComplete
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\bin\Debug\ReeceNewman_19011948_GADE1B_Task2.exe.config
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\bin\Debug\ReeceNewman_19011948_GADE1B_Task2.exe
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\bin\Debug\ReeceNewman_19011948_GADE1B_Task2.pdb
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\bin\Debug\Buildings.dll
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\bin\Debug\Logic.dll
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\bin\Debug\Units.dll
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\bin\Debug\Buildings.pdb
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\bin\Debug\Logic.pdb
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\bin\Debug\Units.pdb
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_POE.csprojAssemblyReference.cache
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\obj\Debug\Units.frmBattleSim.resources
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_Task2.Properties.Resources.resources
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_POE.csproj.GenerateResource.cache
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_POE.csproj.CoreCompileInputs.cache
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_POE.csproj.CopyComplete
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_Task2.exe
+E:\Work\Vega\Game Development\Semester 2\POE\ReeceNewman_19011948_GADE1B_Task2\ReeceNewman_19011948_GADE1B_POE\obj\Debug\ReeceNewman_19011948_GADE1B_Task2.pdb
